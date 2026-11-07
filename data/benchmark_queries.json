@@ -1,0 +1,132 @@
+[
+  {
+    "query_id": "Q1_TRANSFORMER_EFFICIENCY",
+    "query": "Sparse multi-head attention neural network reducing quadratic complexity with memory routing gates",
+    "domain": "AI & Computing",
+    "relevant_ids": [
+      "US10872291B2",
+      "US10872291B2",
+      "US11601128B2",
+      "US11602256B2",
+      "US11603384B2",
+      "US11604512B2"
+    ]
+  },
+  {
+    "query_id": "Q2_FEDERATED_EDGE_PRIVACY",
+    "query": "Decentralized federated machine learning on edge devices with differential privacy and gradient quantization",
+    "domain": "AI & Computing",
+    "relevant_ids": [
+      "US11200492B1",
+      "US11200492B1",
+      "US11601175B2",
+      "US11602303B2",
+      "US11603431B2",
+      "US11604559B2"
+    ]
+  },
+  {
+    "query_id": "Q3_SOLID_STATE_BATTERY",
+    "query": "Solid-state lithium battery using ceramic sulfide electrolyte and silicon nanowire anode to stop dendrites",
+    "domain": "Clean Energy",
+    "relevant_ids": [
+      "US10985412B2",
+      "US10985412B2",
+      "US11601363B2",
+      "US11602491B2",
+      "US11603619B2",
+      "US11604747B2"
+    ]
+  },
+  {
+    "query_id": "Q4_ULTRASONIC_BATTERY_SOH",
+    "query": "Battery management system using high-frequency ultrasonic transducers to measure state of charge and degradation",
+    "domain": "Clean Energy",
+    "relevant_ids": [
+      "US11183719B2",
+      "US11183719B2",
+      "US11601410B2",
+      "US11602538B2",
+      "US11603666B2",
+      "US11604794B2"
+    ]
+  },
+  {
+    "query_id": "Q5_AUTONOMOUS_VEHICLE_FUSION",
+    "query": "Autonomous vehicle sensor fusion integrating solid-state lidar radar and camera images into bird eye view",
+    "domain": "Autonomous Vehicles",
+    "relevant_ids": [
+      "US11048261B2",
+      "US11048261B2",
+      "US11601551B2",
+      "US11602679B2",
+      "US11603807B2",
+      "US11604935B2"
+    ]
+  },
+  {
+    "query_id": "Q6_SOFT_ROBOTIC_GRIPPER",
+    "query": "Pneumatic soft robotic gripper fingers with embedded piezoresistive tactile sensors for delicate handling",
+    "domain": "Robotics",
+    "relevant_ids": [
+      "US11273551B2",
+      "US11273551B2",
+      "US11601598B2",
+      "US11602726B2",
+      "US11603854B2",
+      "US11604982B2"
+    ]
+  },
+  {
+    "query_id": "Q7_RAMAN_GLUCOSE_MONITOR",
+    "query": "Non-invasive continuous glucose monitor measuring near-infrared laser Raman spectra from skin capillaries",
+    "domain": "Medical Devices",
+    "relevant_ids": [
+      "US10842404B2",
+      "US10842404B2",
+      "US11601692B2",
+      "US11602820B2",
+      "US11603948B2",
+      "US11605076B2"
+    ]
+  },
+  {
+    "query_id": "Q8_LIPID_NANOPARTICLE_MRNA",
+    "query": "Lipid nanoparticle formulation encapsulating mRNA with ionizable lipids and PEG for cellular delivery",
+    "domain": "Biotech",
+    "relevant_ids": [
+      "US11229699B2",
+      "US11229699B2",
+      "US11601739B2",
+      "US11602867B2",
+      "US11603995B2",
+      "US11605123B2"
+    ]
+  },
+  {
+    "query_id": "Q9_SMART_HYDRATION_BOTTLE",
+    "query": "Smart drinking bottle with capacitive fluid sensors measuring liquid volume and sending drinking reminders",
+    "domain": "Consumer Health",
+    "relevant_ids": [
+      "US11497426B2",
+      "US11497426B2",
+      "US11601833B2",
+      "US11602961B2",
+      "US11604089B2",
+      "US11605217B2"
+    ]
+  },
+  {
+    "query_id": "Q10_POST_QUANTUM_CRYPTO",
+    "query": "Hardware cryptographic processor accelerating number theoretic transform for lattice Kyber post-quantum encryption",
+    "domain": "Cybersecurity",
+    "relevant_ids": [
+      "US11165565B2",
+      "US11165565B2",
+      "US11602162B2",
+      "US11603290B2",
+      "US11604418B2",
+      "US11605546B2"
+    ]
+  }
+]
