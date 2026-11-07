@@ -1,0 +1,20 @@
+{
+  "num_cols": [
+    "tenure",
+    "monthly_charges",
+    "support_calls",
+    "data_usage_gb"
+  ],
+  "cat_cols": [
+    "contract",
+    "internet_service",
+    "payment_method"
+  ],
+  "target": "churn",
+  "baseline": {
+    "accuracy": 0.704,
+    "f1": 0.477,
+    "auc": 0.7126
+  },
+  "n_train": 3000
+}
